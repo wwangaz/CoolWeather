@@ -1,4 +1,4 @@
-package model;
+package com.example.wangweimin.coolweather.model;
 
 /**
  * Created by wangweimin on 15/8/6.

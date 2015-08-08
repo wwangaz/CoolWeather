@@ -1,16 +1,17 @@
-package db;
+package com.example.wangweimin.coolweather.db;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
+import com.example.wangweimin.coolweather.model.City;
+import com.example.wangweimin.coolweather.model.Province;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import model.City;
-import model.County;
-import model.Province;
+import com.example.wangweimin.coolweather.model.County;
 
 /**
  * Created by wangweimin on 15/8/6.
